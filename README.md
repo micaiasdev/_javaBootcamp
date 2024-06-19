@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ContaBanco é um dos projetos desenvolvido no bootcamp de Java proposto pela DIO em parceria com o Santander
 
-💭 Faço uso da Orientação a objeto criando uma classe para ContaTerminal e instancio a classe em App onde tem o método main. além de instanciar a classe ContaTerminal é no main que faço a entrada de dados e para dar a confirmação que a conta foi criada eu implementei um método em ContaTerminal que imprime a mensagem na tela.
+💭 Estou utilizando a programação orientada a objetos para criar uma classe ContaTerminal. Em seguida, instancio essa classe na aplicação principal, onde está localizado o método main. É no método main que realizo a entrada de dados necessários para a criação da conta. Para confirmar que a conta foi criada com sucesso, implementei um método na classe ContaTerminal que imprime uma mensagem na tela.
 
 Não foi fácil, mas eu entendi que o segredo é não desistir.
 
